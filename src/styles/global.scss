@@ -1,0 +1,17 @@
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #666666;
+  background-image: url('../assets/images/bg.jpg');
+  background-position: center;
+}
+
+.container {
+  max-width: 1152px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 16px;
+}
