@@ -1,6 +1,6 @@
 # FunBox Test
 
-### [link](https://funbox-test-three.vercel.app/) to app
+### [Link](https://funbox-test-three.vercel.app/) to app
 
 ## Project setup
 
